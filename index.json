@@ -1,0 +1,182 @@
+{
+    "Featured": [
+        {
+            "id": 1,
+            "name": "Jacket",
+            "image": "img/featured/jack1.jpg",
+            "price": "$92.00",
+            "simg1": "img/featured/jack1.jpg",
+            "simg2": "img/featured/jack2.jpg",
+            "simg3": "img/featured/jack3.jpg",
+            "simg4": "img/featured/jack4.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 2,
+            "name": "Winter Hat",
+            "image": "img/featured/h1.jpg",
+            "price": "$72.00",
+            "simg1": "img/featured/h1.jpg",
+            "simg2": "img/featured/h2.jpg",
+            "simg3": "img/featured/h3.jpg",
+            "simg4": "img/featured/h4.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 3,
+            "name": "Jacket",
+            "image": "img/featured/j1.jpg",
+            "price": "$499.00",
+            "simg1": "img/featured/j1.jpg",
+            "simg2": "img/featured/j2.jpg",
+            "simg3": "img/featured/j3.jpg",
+            "simg4": "img/featured/j4.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 4,
+            "name": "Leather Gloves",
+            "image": "img/featured/g1.jpg",
+            "price": "$92.00",
+            "simg1": "img/featured/g1.jpg",
+            "simg2": "img/featured/g2.jpg",
+            "simg3": "img/featured/g3.jpg",
+            "simg4": "img/featured/g4.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        }
+    ],
+    "Clothes": [
+        {
+            "id": 5,
+            "name": "Dress",
+            "image": "img/clothes/1.jpg",
+            "price": "$92.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 6,
+            "name": "Dress",
+            "image": "img/clothes/2.jpg",
+            "price": "$72.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 7,
+            "name": "Dress",
+            "image": "img/clothes/3.jpg",
+            "price": "$499.00",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 8,
+            "name": "Dress",
+            "image": "img/featured/4.jpg",
+            "price": "$92.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        }
+    ],
+    "Watches": [
+        {
+            "id": 9,
+            "name": "Watch",
+            "image": "img/watches/1.jpg",
+            "price": "$92.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 10,
+            "name": "Watch",
+            "image": "img/watches/2.jpg",
+            "price": "$72.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 11,
+            "name": "Watch",
+            "image": "img/watches/3.jpg",
+            "price": "$499.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 12,
+            "name": "Watch",
+            "image": "img/watches/4.jpg",
+            "price": "$92.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        }
+    ],
+    "Shoes": [
+        {
+            "id": 13,
+            "name": "Shoes",
+            "image": "img/shoes/1.jpg",
+            "price": "$92.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 14,
+            "name": "Shoes",
+            "image": "img/shoes/2.jpg",
+            "price": "$72.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 15,
+            "name": "Shoes",
+            "image": "img/shoes/3.jpg",
+            "price": "$499.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        },
+        {
+            "id": 16,
+            "name": "Shoes",
+            "image": "img/shoes/4.jpg",
+            "price": "$92.00",
+            "simg1": "img/featured/1.jpg",
+            "simg2": "img/shoes/1.jpg",
+            "simg3": "img/shoes/2.jpg",
+            "simg4": "img/shoes/3.jpg",
+            "des": "The Gildan Ultra Cotton T-shirt is made from a substantial 6.0 oz. per sq. yd. fabric constructed from 100% cotton, this classic fit preshrunk jersey knit provides unmatched comfort with each wear. Featuring a taped neck and shoulder and a seamless double- needle collar, and available in a range of colors, it offers it all in the ultimate head-turning package."
+        }
+    ]
+}
