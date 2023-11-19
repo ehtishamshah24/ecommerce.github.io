@@ -18,6 +18,11 @@
         /* internal styles */ 
         /* Small Images start */
 
+        .small-img-group {
+            display: flex;
+            justify-content: space-around;
+        }
+
 
 
         .small-img-col {
@@ -208,25 +213,25 @@
         let des = obj.searchParams.get('des');
         detailPage.html(
             `
-            <div class="small-img-group col-lg-1 col-md-2 col-2">
-                <div class="small-img-col">
-                    <img src="`+simg1+`" class="small-img" alt="">
-                </div>
-                <div class="small-img-col">
-                    <img src="`+simg2+`" class="small-img pt-2" alt="">
-                </div>
-                <div class="small-img-col">
-                    <img src="`+simg3+`" class="small-img pt-2" alt="">
-                </div>
-                <div class="small-img-col">
-                    <img src="`+simg4+`" class="small-img pt-2" alt="">
-                </div>
-
-            </div>
-            <div class="col-lg-4 col-md-9 col-9">
+            <div class="col-lg-7 col-md-12 col-12">
                 <img class="img-fluid  pb-1" src="`+image+`" id="mainImg" alt="">
+                <div class="small-img-group ">
+                    <div class="small-img-col">
+                        <img src="`+simg1+`" class="small-img" alt="">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="`+simg2+`" class="small-img" alt="">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="`+simg3+`" class="small-img" alt="">
+                    </div>
+                    <div class="small-img-col">
+                        <img src="`+simg4+`" class="small-img" alt="">
+                    </div>
+    
                 </div>
-            <div class="col-lg-6 col-md-12 col-12">
+                </div>
+            <div class="col-lg-4 col-md-12 col-12">
                 <h6 class="pt-3">Home / T-Shirt</h6>
                 <h3 class="py-4">`+name+`</h3>
                 <h2>`+price+`</h2>
@@ -238,7 +243,6 @@
                     <option>Large</option>
                 </select>
                 <input type="number" value="1">
-                <h5>Color:</h5>
                 <button class="buy-btn">Add To Cart</button>
                 <h4 class="mt-5 mb-5">Product Detail</h4>
                 <p>`+des+`</p>
