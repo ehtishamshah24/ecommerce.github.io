@@ -5,25 +5,107 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Tutorial</title>
+        <title>Cart</title>
 
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-            integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
-        <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
+        <link rel="stylesheet" href="Bootstrap/bootstrap-4.6.2-dist/bootstrap-4.6.2-dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+        <script src="Jquery/jquery-3.7.1.min.js"></script>
+        <script src="Bootstrap/bootstrap-4.6.2-dist/bootstrap-4.6.2-dist/js/bootstrap.min.js"></script>
 
         <link rel="stylesheet" href="style.css">
     </head>
 
+    <style>
+        #Addto table{
+            border-collapse: collapse;
+            width: 100%;
+            table-layout: fixed;
+        }
+
+        #Addto table thead {
+            font-weight: 700;
+        }
+
+        #Addto table thead th {
+            background-color: #fc8c66;
+            color: #fff;
+            border: none;
+            padding: 6px;
+        }
+    </style>
+
     <body>
 
+            <!-- Navigation Bar -->
 
-        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"
-            integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG"
-            crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js"
-            integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc"
-            crossorigin="anonymous"></script>
+    <nav class="navbar navbar-expand-sm navbar-light bg-white py-3 fixed-top">
+        <div class="container">
+            <img src="img/logo1.png" alt="">
+            <button class="navbar-toggler d-lg-none" type="button" data-toggle="collapse"
+                data-target="#collapsibleNavId" aria-controls="collapsibleNavId" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span><i id="bar" class="fa fa-bars"></i></span>
+            </button>
+            <div class="collapse navbar-collapse" id="collapsibleNavId">
+                <ul class="navbar-nav ml-auto">
+
+                    <li class="nav-item">
+                        <a class="nav-link active" href="index.html">Home</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="shop.html">Shop</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Blog</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">About</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact</a>
+                    </li>
+                    <li>
+                        <i class="fa fa-search"></i>
+                        <i class="fa fa-shopping-cart"></i>                       
+                    </li>
+
+                </ul>
+                
+                
+            </div>
+        </div>
+    </nav>
+
+    <!-- cart -->
+    <section id="cart" class="my-5">
+        <div class="container mt-5 pt-5">
+            <h2 class="font-weight-bold pt-5">Shopping Cart</h2>
+            <hr>
+        </div>
+    </section>
+
+    <!-- Add to cart section -->
+
+    <section id="Addto">
+        <div class="container">
+            <table width="100%">
+                <thead>
+                    <tr>
+                        <th>Remove</th>
+                        <th>Image</th>
+                        <th>Product</th>
+                        <th>Price</th>
+                        <th>Quantity</th>
+                        <th>Total</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </section>
     </body>
 
 </html>
